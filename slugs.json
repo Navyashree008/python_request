@@ -1,0 +1,12 @@
+{
+    "id": "2059",
+    "parent_exercise_id": "2059",
+    "name": "Conditionals - Exercises",
+    "slug": "english-601__conditionals/exercises",
+    "sequence_num": 3000,
+    "review_type": "peer",
+    "solution": null,
+    "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n### Chain Game\\n\\n 1. One person begins with a sentence. For example, \\\"If I don't study English well, I will not get a good job.\\\" \\n2. The next person in the circle must use the end of the previous sentence to begin their own sentence, for example \\\"If I don't get a good job, I will not be able to earn money.\\\"\\n3. Then the next person continues in the same way. \\\"If I will not be able to earn money, I will not be happy.\\\"\\n4. You can continue one round till 8 -10 sentences and then begin again.\\n\\n \\n\\n### Dilemma Dekho\\n\\n Students, in a group, can discuss what they would do in these situations: * Your friend in NavGurukul wants to go out on Wednesday and meet their boyfriend/girlfriend. They want you to go with them and not tell anyone about this. What would you do if you were in this position?\\n* You and your friend are both applying for the same job. Only one of you will get selected. Would you help them in the preparation or focus on your own preparation?\\n\\n \"}]",
+    "submission_type": null,
+    "github_link": "https://github.com/navgurukul/newton/tree/master/english-601/conditionals/exercises.md"
+}
